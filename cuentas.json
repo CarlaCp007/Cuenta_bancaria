@@ -1,0 +1,14 @@
+{
+    "12345678": {
+        "titular": "Juan Perez",
+        "saldo": 1000,
+        "tipo_cuenta": "Ahorro",
+        "historial": []
+    },
+    "87654321": {
+        "titular": "Maria Lopez",
+        "saldo": 2000,
+        "tipo_cuenta": "Corriente",
+        "historial": []
+    }
+}
